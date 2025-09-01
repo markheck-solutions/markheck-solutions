@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mark
 
-<!--
-**markheck-solutions/markheck-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business leader and solutions builder focused on Microsoft Power Platform and AI-powered automation.  
+I bridge business needs with technology by creating apps, automations, and insights that drive efficiency and clarity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+- **Power Apps** – intuitive apps simplifying workflows for business users  
+- **Power Automate** – automation to save time and reduce errors  
+- **Power BI** – clear, actionable dashboards for better decision-making  
+- **Python Projects** – AI orchestration and custom automation tools  
+
+---
+
+## My Focus
+I do not reinvent platforms. I use the best of Power Platform and GenAI to deliver solutions that scale across organizations and make everyday work easier.
+
+---
+
+## Featured Projects
+- **Two-Model Verification Orchestrator** – Python framework requiring two AI models to independently verify each other’s outputs before delivering a result  
+- **Power Platform Parking App** – Model-Driven and Canvas app solution with Dataverse and BI integration  
+- **Automation Hub** – Playbook of internal automation standards and examples  
+
+---
+
+Always learning. Always building.  
+[Let’s connect on LinkedIn](https://www.linkedin.com/in/mark-heck)
