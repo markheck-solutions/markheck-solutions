@@ -14,14 +14,7 @@ I bridge business needs with technology by creating apps, automations, and insig
 ---
 
 ## My Focus
-I do not reinvent platforms. I use the best of Power Platform and GenAI to deliver solutions that scale across organizations and make everyday work easier.
-
----
-
-## Featured Projects
-- **Two-Model Verification Orchestrator** – Python framework requiring two AI models to independently verify each other’s outputs before delivering a result  
-- **Power Platform Parking App** – Model-Driven and Canvas app solution with Dataverse and BI integration  
-- **Automation Hub** – Playbook of internal automation standards and examples  
+I do not reinvent platforms. I use the best of Power Platform and Gen AI to deliver solutions that scale across organizations and make everyday work easier.
 
 ---
 
